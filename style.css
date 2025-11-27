@@ -1,0 +1,30 @@
+@charset "utf-8";
+.container header {
+    background-color: #3E3BB3;
+}
+.container header nav {
+    background-color: #313191;
+}
+.container #hero {
+    background-image: url(images/%E9%A6%AC%E5%8A%9B%E6%AD%901.jpg);
+    background-size: cover;
+}
+.container #about {
+    background-image: -webkit-linear-gradient(270deg,rgba(99,83,226,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(99,83,226,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(99,83,226,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(99,83,226,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    text-align: center;
+}
+.container .banner {
+    background-image: url(images/Paper-Mario-screenshot.jpg);
+}
+.container #contact {
+    background-image: url(images/Paper-Mario-The-Thousand-Year-Door-Switch-2.jpg);
+    background-size: cover;
+    background-position: 0% center;
+
+}
+.container .copyright {
+    background-color: #301876;
+}
